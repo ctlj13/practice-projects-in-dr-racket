@@ -3,7 +3,7 @@ Dr Racket is a functional programming language. I wrote some fun programs in it 
 
 To run these programs, you need to install Dr. Racket from here: https://racket-lang.org/download/
 
-Here are some videos that show how some of these programs behave:
+<b>Here are some videos that show how some of these programs behave:</b>
 
 Space Invaders: https://youtu.be/1_8aiEaR3qE
 
