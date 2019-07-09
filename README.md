@@ -3,9 +3,9 @@ Dr Racket is a functional programming language. I wrote some fun programs in it 
 
 To run these programs, you need to install Dr. Racket from here: https://racket-lang.org/download/
 
-<b>Here are some videos that show how some of these programs behave:</b>
+<b> More info:</b>
 
-Space Invaders: https://youtu.be/1_8aiEaR3qE
+Here's a video that shows the working of this version of Space Invaders: https://youtu.be/1_8aiEaR3qE
 
-TA Solver (Produces schedule for teaching assistants, given list of TAs, list of available slots per TA and maximum number of slots for each TA): 
+TA Solver produces a schedule for teaching assistants, given a list of TAs, the list of available slots per TA and the maximum number of slots for each TA. 
 
