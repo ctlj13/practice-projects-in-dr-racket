@@ -7,5 +7,5 @@ To run these programs, you need to install Dr. Racket from here: https://racket-
 
 Here's a video that shows the working of this version of Space Invaders: https://youtu.be/1_8aiEaR3qE
 
-TA Solver produces a schedule for teaching assistants, given a list of TAs, the list of available slots per TA and the maximum number of slots for each TA. 
+<i>TA Solver</i> produces a schedule for teaching assistants, given a list of TAs, the list of available slots per TA and the maximum number of slots for each TA. 
 
